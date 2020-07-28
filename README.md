@@ -6,3 +6,5 @@ The sound clips used here are his.
 
 Should work on all operating systems, with Python 3.4 or higher.
 (Though at the moment, this is only tested on Linux with Python 3.8.)
+
+It also works in the background; just leave the program running in the terminal and type in another program!
